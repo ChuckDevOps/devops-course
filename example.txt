@@ -1,3 +1,2 @@
 Richard example.txt new file Update.
-Hello World, this is a gooddayx
-
+Hello World welcome to the class of devops
